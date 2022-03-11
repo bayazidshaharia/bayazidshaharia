@@ -15,6 +15,4 @@ Skills:HTML/CSS/BOOTSTRAP/JAVASCRIPT/PHP/LARAVEL/PHOTOSHOP/ILLUSTRATOR/CAMTASIA/
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bayazidshaharia)  
 
-![GitHub streak stats](https://www.linkedin.com/in/bayazid-shaharia-b06394193/)  
-
 ![Profile views](https://twitter.com/ShahariaBayazid)  
