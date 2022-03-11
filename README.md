@@ -1,9 +1,9 @@
-![Myself is Bayazid Shaharia. Thank You for taking the time to view my GitHub Profile ](https://m.facebook.com/photo.php?fbid=3175302526082072&id=100008070678218&set=a.1852731048339233&source=44&refid=17)
+https://media-exp1.licdn.com/dms/image/C4E16AQHuJSUawYeKiA/profile-displaybackgroundimage-shrink_200_800/0/1646324826237?e=1652313600&v=beta&t=djQ5WbURaw8yUnB843GdLxHXVxR8lzFm4ru0vc8zE34
 ### Hi there 👋, @
 #### Myself is Bayazid Shaharia. Thank You for taking the time to view my GitHub Profile 
 I am a software engineer. I'm working on web, app development & creative content design.
 
-Skills: <i class="fa-brands fa-html5"></i><i class="fa-brands fa-css3"></i><i class="fa-brands fa-bootstrap"></i><i class="fa-brands fa-js"></i><i class="fa-brands fa-php"></i><i class="fa-brands fa-laravel"></i><br>PHOTOSHOP<br>ILLUSTRATOR<br>CAMTASIA<br>PREMIERE PRO
+Skills:HTML/CSS/BOOTSTRAP/JAVASCRIPT/PHP/LARAVEL/PHOTOSHOP/ILLUSTRATOR/CAMTASIA/PREMIERE PRO
 
 - 🔭 I’m currently working on I’m currently working on Learning New Technologies 
 - 🌱 I’m currently learning  I’m currently learning javascript,phpLaravel, Webpack 
@@ -15,6 +15,6 @@ Skills: <i class="fa-brands fa-html5"></i><i class="fa-brands fa-css3"></i><i cl
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bayazidshaharia)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bayazidshaharia)  
+![GitHub streak stats](https://www.linkedin.com/in/bayazid-shaharia-b06394193/)  
 
-![Profile views](https://gpvc.arturio.dev/bayazidshaharia)  
+![Profile views](https://twitter.com/ShahariaBayazid)  
